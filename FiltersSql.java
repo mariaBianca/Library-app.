@@ -3,7 +3,6 @@ package library;
 /**
  * Class that builds the filters as an input and then builds the query upon these filters
  * @author Maria-Bianca Cindroi
- * refactored from Team 2: Project Programming, Wine Advisor
  *
  */
 public class FiltersSql {
