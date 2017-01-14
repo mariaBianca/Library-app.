@@ -10,7 +10,6 @@ import com.mysql.jdbc.Connection;
  * With information
  * 
  * @author Maria-Bianca Cindroi
- * refactored from Team 2: Project Programming, Wine Advisor
  * 
  */
 
