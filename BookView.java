@@ -23,7 +23,6 @@ import com.mysql.jdbc.Connection;
  * the books information and attributes. 
  * 
  * @author Maria-Bianca Cindroi
- * Refactored from Team 2: Project Programming, Wine Advisor
  * 
  */
 @SuppressWarnings("serial")
