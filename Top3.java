@@ -8,7 +8,6 @@ import com.mysql.jdbc.Connection;
  * Class to define the top 3 books found in the db according to Amazon rating
  * 
  * @author Maria-Bianca Cindroi
- * Refactored from Team2: Project PRogramming, Wine Advisor
  *
  */
 public class Top3 {
