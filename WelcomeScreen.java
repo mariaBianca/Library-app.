@@ -24,7 +24,6 @@ import com.mysql.jdbc.Connection;
  * where the program starts.
  * 
  * @author Maria-Bianca Cindroi
- * Refactored from Team2: Project Programming, Wine Advisor
  * 
  */
 
