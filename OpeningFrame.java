@@ -8,7 +8,6 @@ import javax.swing.JPanel;
 /**
  * Class to show a loading screen to the user until connection with the database is established 
  * Maria-Bianca Cindroi
- * refactored from Team2: Project Programming, Wine Advisor
  *
  */
 public class OpeningFrame {
