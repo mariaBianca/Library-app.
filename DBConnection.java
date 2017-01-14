@@ -7,7 +7,6 @@ import java.sql.*;
  * Connection to the database.
  * 
  * @author Maria-Bianca Cindroi
- * refactored from Team2: Project Programming, Wine Advisor
  */
 public class DBConnection {
 
