@@ -10,8 +10,8 @@ import javax.swing.JPanel;
  * and height.
  * 
  * @author Maria-Bianca Cindroi
- *  * refactored from Team2: Project Programming, Wine Advisor
- *
+ * License type: cc-by-sa 
+ * https://creativecommons.org/licenses/by-sa/2.5/
  */
 @SuppressWarnings("serial")
 public class ImagePanel extends JPanel{
