@@ -4,7 +4,6 @@ package library;
  * where the program starts.
  * 
  * @author Maria-Bianca Cindroi
- * Refactored from Team2 Project Programming: Wine Advisor
  */
 import java.sql.Connection;
 import java.sql.ResultSet;
