@@ -13,7 +13,6 @@ import java.awt.Dimension;
 /**
  * Class containing the main frame for the application
  * @author Maria-Bianca Cindroi
- * refactored from Team2: Project Programming, Wine Advisor
  */
 @SuppressWarnings("serial")
 public class MainFrame extends JFrame {
