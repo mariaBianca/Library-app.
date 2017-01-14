@@ -24,7 +24,6 @@ import com.mysql.jdbc.Connection;
  *top 3 rating from on Amazon.com
  * 
  * @author Maria-Bianca Cindroi
- * Refactured from Team2: Project PRogramming, Wine Advisor
  * 
  */
 @SuppressWarnings("serial")
