@@ -41,7 +41,6 @@ import com.mysql.jdbc.Connection;
  * FilterGUI class where the user will be able to make some filtering for the books
  * existent in the database
  * @author Maria-Bianca Cindroi
- * refactored from Team2: Project Programming, Wine Advisor
  * 
  */
 public class FilterGui {
